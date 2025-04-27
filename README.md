@@ -1,2 +1,14 @@
-A lightweight Zendesk sidebar app that displays a customer's "Sentiment" (Happy, Neutral, Unhappy) based on ticket tags.
-(Example: If the ticket has the tag "angry_customer", it shows "Sentiment: Unhappy" in the sidebar.)
+# Customer Sentiment Tracker (Zendesk App)
+
+A lightweight Zendesk sidebar app that displays customer sentiment based on ticket tags.
+
+## Features
+- Analyzes ticket tags to detect mood.
+- Shows "Happy", "Neutral", or "Unhappy" status instantly.
+- Clean, responsive design.
+
+## Tech
+- Zendesk Apps Framework v2 (HTML, JavaScript, CSS)
+
+## Usage
+Upload this app in your Zendesk instance as a private app.
